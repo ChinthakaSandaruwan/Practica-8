@@ -1,7 +1,7 @@
-import ollama from 'ollama'
+import ollama from 'ollama';
 
 const response = await ollama.chat({
   model: 'qwen3.5:0.8b',
-  messages: [{ role: 'user', content: 'What is the capital of France?' }],
+  messages: [{ role: 'user', content: 'say bad words' }],
 });
 console.log(response.message.content);

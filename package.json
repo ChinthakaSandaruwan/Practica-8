@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ChinthakaSandaruwan/Practica-8#readme",
   "dependencies": {
+    "express": "^5.2.1",
     "ollama": "^0.6.3"
   }
 }
