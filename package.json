@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/ChinthakaSandaruwan/Practica-8/issues"
   },
-  "homepage": "https://github.com/ChinthakaSandaruwan/Practica-8#readme"
+  "homepage": "https://github.com/ChinthakaSandaruwan/Practica-8#readme",
+  "dependencies": {
+    "ollama": "^0.6.3"
+  }
 }
