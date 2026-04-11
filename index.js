@@ -12,6 +12,7 @@ app.get("/chinthaka", async (req, res) => {
         messages: [{ role: 'user', 
         content: 'What is the capital of France?'
      }
+     
     ],
     });
 
